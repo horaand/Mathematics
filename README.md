@@ -33,8 +33,7 @@ public class SumNumbers {
     * Die Zahlen `6` und `8` werden direkt im Code definiert.
     * Die Summe wird berechnet und ausgegeben.
 
-2. <code style = "color : pink">Zahlen per Benutzereingabe addieren:
-</code>
+2. <code style = "color : pink">Zahlen per Benutzereingabe addieren:</code>
     * Mit `Scanner` wird der Benutzer aufgefordert, zwei Zahlen einzugeben.
     * Diese werden eingelesen und anschließend addiert.
     * Das Ergebnis wird als Summe ausgegeben.

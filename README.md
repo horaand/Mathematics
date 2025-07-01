@@ -48,3 +48,6 @@ Bitte geben Sie die zweite Zahl ein:
 3 + 5 = 8
 
 ```
+Diese Übung basiert auf Aufgaben von [w3resource](https://www.w3resource.com/java-exercises/basic/index.php)  
+
+Die Lösungen wurden selbstständig von mir entwickelt und sind nur für Lernzwecke gedacht.
